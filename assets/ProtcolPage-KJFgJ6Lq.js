@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o}from"./index-CCAx8xlD.js";const r={};function t(n,s){return c(),o("h1",null,"《用户协议》")}const a=e(r,[["render",t],["__file","C:/code/xx/kc-mobile-v2/src/views/ProtcolPage.vue"]]);export{a as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-CCAx8xlD.js";const c={};function r(n,s){return t(),o("h1",null,"lottery")}const a=e(c,[["render",r],["__file","C:/code/xx/kc-mobile-v2/src/views/LotteryPage/LotteryIndex.vue"]]);export{a as default};
